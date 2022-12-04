@@ -5,7 +5,7 @@ permalink: /Stakeholders/
 ---
 
 This is where I will discuss stakeholders.  
-
+I would like to update this site. 
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
